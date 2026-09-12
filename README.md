@@ -24,7 +24,7 @@
 
 ## 📸 Preview
 
- ![](sc/sc1.png) |
+ ![](sc/sc1.png) 
 
 ---
 
@@ -59,6 +59,7 @@
 
 ## 📂 Project Structure
 ```text
+---
 
 Calso-calculator/
 │
