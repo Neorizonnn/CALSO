@@ -35,7 +35,7 @@
   - Subtraction
   - Multiplication
   - Division
-- Decimal calculations
+- Decimal calculation
 - Percentage calculation
 - Memory functions
   - `MC` — Memory Clear
