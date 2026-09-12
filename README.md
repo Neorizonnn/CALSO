@@ -58,6 +58,7 @@
 ---
 
 ## 📂 Project Structure
+```text
 
 Calso-calculator/
 │
@@ -76,6 +77,8 @@ Calso-calculator/
 
 ---
 
+```
+
 ## 🎯 Purpose
 
 **CALSO** was created as a core **Vanilla JavaScript** learning project to move beyond static websites and practice building interactive functionality projects from scratch.
@@ -84,7 +87,7 @@ Calso-calculator/
 
 ## 🔮 Future Improvements
 
-- Adding responsive media queries for better support across devices of various dimensions.
+- Adding responsive media queries for better support across devices of various dimensions
 - Adding scientific calculator functions such as:
   - Square root
   - Powers
