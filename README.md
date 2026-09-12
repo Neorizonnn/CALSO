@@ -24,7 +24,7 @@
 
 ## 📸 Preview
 
-| ![](sc/sc1.png) |
+ ![](sc/sc1.png) |
 
 ---
 
